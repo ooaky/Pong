@@ -10,6 +10,7 @@
 /[Ll]ogs/
 /[Rr]ecordings/
 /[Mm]emoryCaptures/
+/.vscode/
 /[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
